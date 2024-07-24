@@ -1,1 +1,5 @@
-test conflict on main
+<<<<<<< HEAD
+test conflict on main & conflict-branch
+=======
+test conflict on conflict-branch
+>>>>>>> conflict-branch
